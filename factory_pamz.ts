@@ -1,0 +1,1 @@
+const service_pamz = <T>(args: T): T => { return args; };
